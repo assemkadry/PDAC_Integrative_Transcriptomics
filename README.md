@@ -102,12 +102,13 @@ BiocManager::install(c(
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Assem K. Elsherif**  
-School of Biotechnology, Nile University, Egypt  
-📧 akadry@nu.edu.eg  
-🌍 [LinkedIn](https://www.linkedin.com/) 
+**Assem K. Elsherif**
+**Nourine Mamdouh Sabry Abdelfattah**
+**Sajda Hussien Salah Tahoun**
+**Sondos Ameen El-Sayed Mohammed Awad**
+**Moaz Mohamed ElShiekh**
 
 ---
 
