@@ -105,9 +105,13 @@ BiocManager::install(c(
 ## 👨‍💻 Authors
 
 **Assem K. Elsherif**
+
 **Nourine Mamdouh Sabry Abdelfattah**
+
 **Sajda Hussien Salah Tahoun**
+
 **Sondos Ameen El-Sayed Mohammed Awad**
+
 **Moaz Mohamed ElShiekh**
 
 ---
