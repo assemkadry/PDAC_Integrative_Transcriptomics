@@ -16,7 +16,7 @@ This repository accompanies the study:
 - [Data Sources](#-data-sources)
 - [Setup](#️-setup-and-requirements)
 - [Outputs](#-outputs)
-- [Author](#-author)
+- [Authors](#-author)
 - [Keywords](#-keywords)
 - [License](#-license)
 
